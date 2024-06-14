@@ -1,4 +1,4 @@
-package measuringSorts
+package measuringSorts;
 
 public class BubbleSort extends Instrumentation {
 	
